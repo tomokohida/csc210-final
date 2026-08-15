@@ -1,0 +1,106 @@
+p	51	54
+n	Smith College
+n	Academy of Music
+n	Northampton Post Office
+n	Sheldon Field
+n	Russell / Bay Barn Shops
+n	Russell / Elmwood
+n	Russell / West
+n	Russell / Middle (E)
+n	Russell / East (RMV)
+n	Russell / Pine Hill
+n	Russell / Spruce Hill
+n	Russell / Russell (Whole Foods)
+n	Mountain Farms Mall
+n	Hampshire Mall
+n	Russell / Russell (Staples)
+n	Russell / Campus Plaza (Pride)
+n	Greenleaves Drive
+n	Amherst Community Health Ctr
+n	University / Amity
+n	Southwest Residential / Massachusetts Avenue (E)
+n	Haigis Mall
+n	UMass Visitors Center
+n	Fearing Street
+n	Cowles Lane
+n	Amherst Common (S)
+n	Amherst College
+n	Bay Road (E)
+n	Middle Street / Rt 47 (E)
+n	Chmura Road (S)
+n	Skinner Mountain (S)
+n	Hadley Street (S)
+n	Park Street
+n	Mount Holyoke College Museum
+n	Mount Holyoke College / Blanchard Hall
+n	Mary Woolley Hall
+n	Stone Shelter
+n	Silver Street
+n	Dickinson Farm Road
+n	Lynn Drive
+n	Granby Heights Condominiums
+n	Notch Visitors Center
+n	Atkins Farm / Bay Road
+n	Eric Carle Museum
+n	Sander’s Stop
+n	Hampshire College
+n	Potwine Lane
+n	Pomeroy Lane
+n	Crocker Farm School
+n	Mill Lane
+n	Memorial Drive
+n	Amherst Post Office
+e	Smith College	Academy of Music	0.3
+e	Academy of Music	Northampton Post Office	0.4
+e	Northampton Post Office	Sheldon Field	0.6
+e	Sheldon Field	Russell / Bay Barn Shops	1.3
+e	Russell / Bay Barn Shops	Russell / Elmwood	0.3
+e	Russell / Elmwood	Russell / West	0.4
+e	Russell / West	Russell / Middle (E)	0.3
+e	Russell / Middle (E)	Russell / East (RMV)	0.5
+e	Russell / East (RMV)	Russell / Pine Hill	0.3
+e	Russell / Pine Hill	Russell / Spruce Hill	0.1
+e	Russell / Spruce Hill	Russell / Russell (Whole Foods)	1
+e	Russell / Russell (Whole Foods)	Mountain Farms Mall	0.3
+e	Mountain Farms Mall	Hampshire Mall	0.2
+e	Hampshire Mall	Russell / Russell (Staples)	0.6
+e	Russell / Russell (Staples)	Russell / Campus Plaza (Pride)	0.3
+e	Russell / Campus Plaza (Pride)	Greenleaves Drive	0.2
+e	Greenleaves Drive	Amherst Community Health Ctr	0.5
+e	Amherst Community Health Ctr	University / Amity	0.5
+e	University / Amity	Southwest Residential / Massachusetts Avenue (E)	1
+e	Southwest Residential / Massachusetts Avenue (E)	Haigis Mall	0.8
+e	Haigis Mall	UMass Visitors Center	0.2
+e	UMass Visitors Center	Fearing Street	0.3
+e	Fearing Street	Pray Street	0.2
+e	Pray Street	Cowles Lane	0.2
+e	Cowles Lane	Amherst Common (S)	0.3
+e	Amherst Common (S)	Amherst College	0.2
+e	Sheldon Field	Bay Road (E)	1.4
+e	Bay Road (E)	Middle Street / Rt 47 (E)	0.9
+e	Middle Street / Rt 47 (E)	Chmura Road (S)	1.7
+e	Chmura Road (S)	Skinner Mountain (S)	1.8
+e	Skinner Mountain (S)	Hadley Street (S)	3.2
+e	Hadley Street (S)	Park Street	0.5
+e	Park Street	Mount Holyoke College Museum	0.1
+e	Mount Holyoke College Museum	Mount Holyoke College / Blanchard Hall	0.2
+e	Mount Holyoke College / Blanchard Hall	Mary Woolley Hall	0.2
+e	Mary Woolley Hall	Stone Shelter	0.3
+e	Stone Shelter	Silver Street	0.3
+e	Silver Street	Dickinson Farm Road	0.8
+e	Dickinson Farm Road	Lynn Drive	1.2
+e	Lynn Drive	Granby Heights Condominiums	1
+e	Granby Heights Condominiums	Notch Visitors Center	1.2
+e	Notch Visitors Center	Atkins Farm / Bay Road	1.2
+e	Atkins Farm / Bay Road	Eric Carle Museum	0.4
+e	Eric Carle Museum	Sander’s Stop	0.5
+e	Sander’s Stop	Hampshire College	0.2
+e	Sander’s Stop	Potwine Lane	1.1
+e	Potwine Lane	Pomeroy Lane	0.5
+e	Pomeroy Lane	Crocker Farm School	0.3
+e	Crocker Farm School	Mill Lane	0.7
+e	Mill Lane	Memorial Drive	0.5
+e	Memorial Drive	Amherst College	0.4
+e	Amherst Common (S)	Amherst Post Office	0.2
+e	Amherst Post Office	Pray Street	0.1
+e	Fearing Street	Haigis Mall	0.5

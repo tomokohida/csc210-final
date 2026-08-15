@@ -1,0 +1,19 @@
+PVTA Routes: https://www.pvta.com/routeMaps.php
+
+
+We chose a data set which describes the Pioneer Valley Transit Authority. Our data spans three bus routes, 
+the B43, 38, and 39E. We chose these particular routes because they traverse the entire five college consortium. 
+Our data is compiled by and made by us. Each node represents a bus stop while each edge is the path traversed 
+between the stops. Each edge has a weight which is the length in miles. The graph is undirected because the bus 
+runs in both directions. Self-edges are not incorporated into the data set because that would mean the bus 
+departed from and arrived at the same location. There are also no duplicate edges.
+
+We chose to organize our data in a TSV. The first line begins with a p and lists the number of nodes and the 
+number of edges. The next set of lines represent the nodes in the data. These lines begin with an n and are 
+followed by the name of the bus stop. The next set of lines represent the edges in the data. These lines begin 
+with an e and are followed by the starting node, the ending node, and the value of the distance between those 
+nodes.
+
+Our graph contains 51 nodes and 54 edges, and is an undirected graph. 
+There are no self edges, and although the PVTA system does differenciate the routes by bus route, 
+we have made an iteration of the PVTA system that combines the B43, 38, and 39E.

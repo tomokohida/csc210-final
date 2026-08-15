@@ -1,0 +1,14 @@
+Welcome to our busroute machine! We have data on the B43, 38, and 39E bus routes. What is your starting location?
+Smith College
+[Smith College, Academy of Music, Northampton Post Office, Sheldon Field, Russell / Bay Barn Shops, Russell / Elmwood, Russell / West, Russell / Middle (E), Russell / East (RMV), Russell / Pine Hill, Russell / Spruce Hill, Russell / Russell (Whole Foods), Mountain Farms Mall, Hampshire Mall, Russell / Russell (Staples), Russell / Campus Plaza (Pride), Greenleaves Drive, Amherst Community Health Ctr, University / Amity, Southwest Residential / Massachusetts Avenue (E), Haigis Mall, UMass Visitors Center, Fearing Street, Cowles Lane, Amherst Common (S), Amherst College, Bay Road (E), Middle Street / Rt 47 (E), Chmura Road (S), Skinner Mountain (S), Hadley Street (S), Park Street, Mount Holyoke College Museum, Mount Holyoke College / Blanchard Hall, Mary Woolley Hall, Stone Shelter, Silver Street, Dickinson Farm Road, Lynn Drive, Granby Heights Condominiums, Notch Visitors Center, Atkins Farm / Bay Road, Eric Carle Museum, Sanderâ??s Stop, Hampshire College, Potwine Lane, Pomeroy Lane, Crocker Farm School, Mill Lane, Memorial Drive, Amherst Post Office, Pray Street]
+Your starting location is: Smith College
+Please specify your end stop.
+Fearing Street
+You have entered Fearing Street as your end location! The shortest distance to Fearing Street is: 10.400001 miles.
+The following demonstrates the path to your end stop.
+[Smith College, Academy of Music, Northampton Post Office, Northampton Post Office, Sheldon Field, Sheldon Field, Russell / Bay Barn Shops, Russell / Bay Barn Shops, Russell / Elmwood, Russell / Elmwood, Russell / West, Russell / West, Russell / Middle (E), Russell / Middle (E), Russell / East (RMV), Russell / East (RMV), Russell / Pine Hill, Russell / Pine Hill, Russell / Spruce Hill, Russell / Spruce Hill, Russell / Russell (Whole Foods), Russell / Russell (Whole Foods), Mountain Farms Mall, Mountain Farms Mall, Hampshire Mall, Hampshire Mall, Russell / Russell (Staples), Russell / Russell (Staples), Russell / Campus Plaza (Pride), Russell / Campus Plaza (Pride), Greenleaves Drive, Greenleaves Drive, Amherst Community Health Ctr, Amherst Community Health Ctr, University / Amity, University / Amity, Southwest Residential / Massachusetts Avenue (E), Southwest Residential / Massachusetts Avenue (E), Haigis Mall, Haigis Mall, Fearing Street]
+Operation complete!
+Total Number of Bus Stops: 52
+Total Number of Paths: 54
+Max Number of Transfers: 3
+Average Number of Transfers: 2
